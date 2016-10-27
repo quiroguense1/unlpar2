@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/anibal/AndroidStudioProjects/Unlpar/unity/build/intermediates/res/merged/androidTest/debug/drawable/app_icon.png",
+        "source": "/home/anibal/AndroidStudioProjects/Unlpar/unity/build/intermediates/bundles/debug/res/drawable/app_icon.png"
+    },
+    {
+        "merged": "/home/anibal/Descargas/YourProductName1/app/build/intermediates/res/merged/androidTest/debug/drawable/app_icon.png",
+        "source": "/home/anibal/Descargas/YourProductName1/app/build/intermediates/bundles/debug/res/drawable/app_icon.png"
+    }
+]

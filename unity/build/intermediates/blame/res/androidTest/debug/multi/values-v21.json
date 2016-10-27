@@ -1,0 +1,54 @@
+[
+    {
+        "outputFile": "/home/anibal/Descargas/YourProductName1/app/build/intermediates/res/merged/androidTest/debug/values-v21/values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 8,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "/home/anibal/Descargas/YourProductName1/app/build/intermediates/bundles/debug/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 3,
+                        "endColumn": 8,
+                        "endOffset": 158
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/anibal/AndroidStudioProjects/Unlpar/unity/build/intermediates/res/merged/androidTest/debug/values-v21/values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 8,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "/home/anibal/AndroidStudioProjects/Unlpar/unity/build/intermediates/bundles/debug/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 3,
+                        "endColumn": 8,
+                        "endOffset": 158
+                    }
+                }
+            }
+        ]
+    }
+]
